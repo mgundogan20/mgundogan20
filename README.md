@@ -33,23 +33,20 @@ Side Projects by Mevlüt Can Gündoğan
 
 Tunable pedal to add sound effects to electronic guitars.
 
-![Enter image alt description](Images/Fmn_Image_1.png)
+<img src="Images/Fmn_Image_1.png" width="400">
 
 ## Parallel Temperature Monitoring IOT Device
 
 Gathers temperature readings from up to 6 different sources and reports them to a static server.
 
-![Enter image alt description](Images/zah_Image_2.png)
+<img src="Images/zah_Image_2.png" width="400">
 
 ## AM Radio Transmitter
 
 Tunable radio transmitter using a 9V battery. Uses a BJT as an amplifier. Can broadcast around 1 to 2 MHz.
 
-![A diagram of a circuit
-Description automatically generated](Images/ty4-diagram-circuit-description-automatically.jpeg)
-
-![A screenshot of a computer
-Description automatically generated](Images/lsz-screenshot-computer-description-automatically.png)
+<img src="Images/ty4-diagram-circuit-description-automatically.jpeg" width="600">
+<img src="Images/lsz-screenshot-computer-description-automatically.png" width = 400">
 
 # Optics and Photonics
 
@@ -57,33 +54,30 @@ Description automatically generated](Images/lsz-screenshot-computer-description-
 
 Renders 3D pictures by physically calculating the paths of light rays.
 
+<img src="https://user-images.githubusercontent.com/72755125/236655425-e1d31eb9-d25d-49fb-8bba-a18de69ecf40.png" width="400" height="225"><img src="https://user-images.githubusercontent.com/72755125/236655508-17a7ff00-d34a-415f-83f7-5160caab111d.png" width="337" height="225">
+
 ## Petzval’s Lens
 
 Zemax project to create an objective lens, the image produced by this objective can be seen below.
 
-![A screenshot of a computer
-Description automatically generated](Images/4eE-screenshot-computer-description-automatically.jpeg)
+<img src="Images/4eE-screenshot-computer-description-automatically.jpeg" width="400">
 
 ## Fiber Coupler
 
 Zemax project to couple 2 fiber-optics. Achieves near perfect coupling efficiencies.
 
-![A screenshot of a computer
-Description automatically generated](Images/Dcj-screenshot-computer-description-automatically.png)
+<img src="Images/Dcj-screenshot-computer-description-automatically.png" width="400">
 
 # Signal Processing
 
 ## Analog Controller
 
-![A screenshot of a computer
-Description automatically generated](Images/lKj-screenshot-computer-description-automatically.png)
+<img src="Images/lKj-screenshot-computer-description-automatically.png" width="800">
 
 ## 16QAM modulation and AD conversion
 
 Experimenting with digital signal transmission and sequence retrieval.
-
-![A screenshot of a computer
-Description automatically generated](Images/SEK-screenshot-computer-description-automatically.png)
+<img src="Images/SEK-screenshot-computer-description-automatically.png" width="600">
 
 ## Signal Modulation/Demodulation
 
@@ -98,7 +92,7 @@ Description automatically generated](Images/4gz-screenshot-computer-description-
 
 Genetic algorithm that mutates the weights of a neural network to play the popular mobile game “Flappy Bird”.
 
-![Enter image alt description](Images/W59_Image_13.gif)
+<img src="Images/W59_Image_13.gif">
 
 ## MLP Image Classification
 
