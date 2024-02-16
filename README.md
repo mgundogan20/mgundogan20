@@ -46,7 +46,8 @@ Gathers temperature readings from up to 6 different sources and reports them to 
 Tunable radio transmitter using a 9V battery. Uses a BJT as an amplifier. Can broadcast around 1 to 2 MHz.
 
 <img src="Images/ty4-diagram-circuit-description-automatically.jpeg" width="600">
-<img src="Images/lsz-screenshot-computer-description-automatically.png" width = 400">
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/83b94a65-17b8-49d8-b32e-064e5e3bf5a1" width="300"><img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/566b4115-a24f-4b16-9619-adc934621e18" width="300">
+
 
 # Optics and Photonics
 
@@ -60,13 +61,20 @@ Renders 3D pictures by physically calculating the paths of light rays.
 
 Zemax project to create an objective lens, the image produced by this objective can be seen below.
 
-<img src="Images/4eE-screenshot-computer-description-automatically.jpeg" width="400">
+
+<img src="Images/4eE-screenshot-computer-description-automatically.jpeg" width="600">
+
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/d0b2bb7c-d1bb-4eee-a5c0-3f6b6fb7fbc0" height="300">
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/a1b3753a-8a94-4eaf-b4f6-aa5faba11986" height="300">
+
 
 ## Fiber Coupler
 
 Zemax project to couple 2 fiber-optics. Achieves near perfect coupling efficiencies.
 
-<img src="Images/Dcj-screenshot-computer-description-automatically.png" width="400">
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/798803f4-4f1e-4d33-b7f6-d4bf025ea2d1" width="600" >
+
+<img src="Images/Dcj-screenshot-computer-description-automatically.png" width="600">
 
 # Signal Processing
 
@@ -83,8 +91,7 @@ Experimenting with digital signal transmission and sequence retrieval.
 
 Experimenting with analog signal transmission and retrieval.
 
-![A screenshot of a computer
-Description automatically generated](Images/4gz-screenshot-computer-description-automatically.png)
+<img src="Images/4gz-screenshot-computer-description-automatically.png" width="600">
 
 # Machine Learning
 
@@ -92,17 +99,17 @@ Description automatically generated](Images/4gz-screenshot-computer-description-
 
 Genetic algorithm that mutates the weights of a neural network to play the popular mobile game “Flappy Bird”.
 
+<img src="Images/ZX5_Image_12.png" width="600">
+
 <img src="Images/W59_Image_13.gif">
 
 ## MLP Image Classification
 
 Done as a part of CS231n machine learning class.
 
-![A collage of many squares
-Description automatically generated](Images/t5X-collage-many-squares-description-automatically.png)
+<img src="Images/wYO-collage-different-colored-squares-description.png" height="300"><img src="Images/t5X-collage-many-squares-description-automatically.png" width="300">
 
-![A graph of a graph and a graph of a graph
-Description automatically generated](Images/2e7-graph-graph-graph-graph-description.png)
+<img src="Images/2e7-graph-graph-graph-graph-description.png" width="400"><img src="Images/Pfp_Image_16.png" width="400">
 
 # Miscellaneous
 
@@ -110,7 +117,8 @@ Description automatically generated](Images/2e7-graph-graph-graph-graph-descript
 
 Using 4th order Runge-Kutta method to model the complex behaviors of rigid body rotations in free space. This project was used to demonstrate the tennis racket theorem.
 
-![Enter image alt description](Images/fYV_Image_20.png)
+<img src="Images/1q6_Image_18.png" width="300"><img src="Images/nbB_Image_19.png" width="300"><img src="Images/fYV_Image_20.png" width="300">
+
 
 ## SpacePong Game and Bot
 
