@@ -21,7 +21,9 @@ Side Projects by Mevlüt Can Gündoğan
 
 - Flappy Bird AI
 
-- Image Classifier (cs231n)
+- MLP Image Classifier (cs231n)
+  
+- CNN Image Classifier (cs231n)
 
 - Rigid Body Numerical Analysis in Python
 
@@ -110,6 +112,27 @@ Done as a part of CS231n machine learning class.
 <img src="Images/wYO-collage-different-colored-squares-description.png" height="300"><img src="Images/t5X-collage-many-squares-description-automatically.png" width="300">
 
 <img src="Images/2e7-graph-graph-graph-graph-description.png" width="400"><img src="Images/Pfp_Image_16.png" width="400">
+
+
+## CNN Image Classification
+
+Done as a part of CS231n machine learning class using PyTorch.
+
+### Architecture:
+((CONV -> PReLU -> NORM)^2 POOL)^2 -> FNN -> FNN -> FNN
+
+Update function: Adam
+
+The final training weights of the first layer after 10 epochs over CIFAR-10:
+(Raw - Upsampled - Upsampled & Contrast Enhanced)
+
+<img width="200" alt="Ekran görüntüsü 2024-02-29 003240" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/fc5161bc-ffd8-473e-997b-82a1385f0f31">
+<img width="200" alt="Ekran görüntüsü 2024-02-29 003742" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/74d6c1b5-d3ed-411c-a060-88b9451af951">
+<img width="200" alt="Ekran görüntüsü 2024-02-29 003541" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/8ea9328a-c871-4601-a664-2ed335c2a318">
+
+<img width="452" alt="Ekran görüntüsü 2024-02-29 003434" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/d10bbabb-2bda-43a7-8ca6-dc17620c4d4e">
+<img width="191" alt="Ekran görüntüsü 2024-02-29 003847" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/366f3fc5-92cb-4f6c-9412-1f2d558338b4">
+
 
 # Miscellaneous
 
