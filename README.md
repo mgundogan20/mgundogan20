@@ -1,35 +1,25 @@
 ### Hi there 👋
 Side Projects by Mevlüt Can Gündoğan
-
-- Guitar Pedal
-
-- Temperature Monitoring Device
-
-- AM Radio
-
-- Aberration Correction
-
-- Ray Tracer
-
-- Camera Objective (Petzval’s Lens)
-
-- Fiber-Optic coupler
-
-- Analog Control (PID)
-
-- Digital signal transmission
-
-- Analog signal transmission
-
-- Flappy Bird AI
-
-- MLP Image Classifier (cs231n)
-  
-- CNN Image Classifier (cs231n)
-
-- Rigid Body Numerical Analysis in Python
-
-- SpacePong Game and Bot
+- Electronics
+    - Guitar Pedal
+    - Temperature Monitoring Device
+    - AM Radio
+- Optics and Photonics
+    - Aberration Correction
+    - Ray Tracer
+    - Camera Objective (Petzval’s Lens)
+    - Fiber-Optic coupler
+- Signal Processing
+    - Analog Control (PID)
+    - Digital signal transmission
+    - Analog signal transmission
+- Machine Learning
+    - Flappy Bird AI
+    - MLP Image Classifier (cs231n)
+    - CNN Image Classifier (cs231n)
+- Miscellaneous
+    - Rigid Body Numerical Analysis in Python
+    - SpacePong Game and Bot
 
 # Electronics
 
