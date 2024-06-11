@@ -7,6 +7,8 @@ Side Projects by Mevlüt Can Gündoğan
 
 - AM Radio
 
+- Aberration Correction
+
 - Ray Tracer
 
 - Camera Objective (Petzval’s Lens)
@@ -77,6 +79,13 @@ Zemax project to couple 2 fiber-optics. Achieves near perfect coupling efficienc
 <img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/798803f4-4f1e-4d33-b7f6-d4bf025ea2d1" width="600" >
 
 <img src="Images/Dcj-screenshot-computer-description-automatically.png" width="600">
+
+## Aberration Correction
+
+This neural network reduces aberration and noise in microscopical images.
+
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/f5e0c1b7-84f2-4393-863a-5afe6b09f535" width="600">
+
 
 # Signal Processing
 
