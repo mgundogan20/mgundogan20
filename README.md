@@ -1,14 +1,15 @@
 ### Hi there 👋
 Side Projects by Mevlüt Can Gündoğan
+- Optics and Photonics
+    - Aberration Correction
+    - Ray Tracer
+    - Wave propagation simulations
+    - Camera Objective (Petzval’s Lens)
+    - Fiber-Optic coupler
 - Electronics
     - Guitar Pedal
     - Temperature Monitoring Device
     - AM Radio
-- Optics and Photonics
-    - Aberration Correction
-    - Ray Tracer
-    - Camera Objective (Petzval’s Lens)
-    - Fiber-Optic coupler
 - Signal Processing
     - Analog Control (PID)
     - Digital signal transmission
@@ -20,29 +21,6 @@ Side Projects by Mevlüt Can Gündoğan
 - Miscellaneous
     - Rigid Body Numerical Analysis in Python
     - SpacePong Game and Bot
-
-# Electronics
-
-## DIY Guitar Pedal
-
-Tunable pedal to add sound effects to electronic guitars.
-
-<img src="Images/Fmn_Image_1.png" width="400">
-
-## Parallel Temperature Monitoring IOT Device
-
-Gathers temperature readings from up to 6 different sources and reports them to a static server.
-
-<img src="Images/zah_Image_2.png" width="400">
-
-## AM Radio Transmitter
-
-Tunable radio transmitter using a 9V battery. Uses a BJT as an amplifier. Can broadcast around 1 to 2 MHz.
-
-<img src="Images/ty4-diagram-circuit-description-automatically.jpeg" width="600">
-<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/83b94a65-17b8-49d8-b32e-064e5e3bf5a1" width="300"><img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/566b4115-a24f-4b16-9619-adc934621e18" width="300">
-
-
 # Optics and Photonics
 
 ## Ray Tracing
@@ -50,6 +28,14 @@ Tunable radio transmitter using a 9V battery. Uses a BJT as an amplifier. Can br
 Renders 3D pictures by physically calculating the paths of light rays.
 
 <img src="https://user-images.githubusercontent.com/72755125/236655425-e1d31eb9-d25d-49fb-8bba-a18de69ecf40.png" width="400" height="225"><img src="https://user-images.githubusercontent.com/72755125/236655508-17a7ff00-d34a-415f-83f7-5160caab111d.png" width="337" height="225">
+
+## Wave Propagation Simulations
+
+Numerical solutions of the Nonlinear Schrödinger Equation for a Gaussian Beam.
+
+<img src="https://github.com/user-attachments/assets/17c05ab5-f0e1-4124-8d2f-97888d846e9c" alt="propagation_grating" width="300">
+<img src="https://github.com/user-attachments/assets/550e3c33-586a-443d-8580-b2da98e8a7d8" alt="propagation_lens" width="300">
+<img src="https://github.com/user-attachments/assets/101ee926-8372-4991-a037-3e0b0f9e352d" alt="propagation_free_space" width="300">
 
 ## Petzval’s Lens
 
@@ -75,6 +61,29 @@ Zemax project to couple 2 fiber-optics. Achieves near perfect coupling efficienc
 This neural network reduces aberration and noise in microscopical images.
 
 <img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/f5e0c1b7-84f2-4393-863a-5afe6b09f535" width="600">
+
+# Electronics
+
+## DIY Guitar Pedal
+
+Tunable pedal to add sound effects to electronic guitars.
+
+<img src="Images/Fmn_Image_1.png" width="400">
+
+## Parallel Temperature Monitoring IOT Device
+
+Gathers temperature readings from up to 6 different sources and reports them to a static server.
+
+<img src="Images/zah_Image_2.png" width="400">
+
+## AM Radio Transmitter
+
+Tunable radio transmitter using a 9V battery. Uses a BJT as an amplifier. Can broadcast around 1 to 2 MHz.
+
+<img src="Images/ty4-diagram-circuit-description-automatically.jpeg" width="600">
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/83b94a65-17b8-49d8-b32e-064e5e3bf5a1" width="300"><img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/566b4115-a24f-4b16-9619-adc934621e18" width="300">
+
+
 
 
 # Signal Processing
