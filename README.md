@@ -1,23 +1,24 @@
 ### Hi there 👋
 Side Projects by Mevlüt Can Gündoğan
 - Optics and Photonics
-    - Aberration Correction
     - Ray Tracer
     - Wave propagation simulations
+    - Aberration Correction
+    - Experimentally Measuring Point Spread Functions
     - Camera Objective (Petzval’s Lens)
     - Fiber-Optic coupler
-- Electronics
-    - Guitar Pedal
-    - Temperature Monitoring Device
-    - AM Radio
-- Signal Processing
-    - Analog Control (PID)
-    - Digital signal transmission
-    - Analog signal transmission
 - Machine Learning
     - Flappy Bird AI
     - MLP Image Classifier (cs231n)
     - CNN Image Classifier (cs231n)
+- Electronics
+    - AM Radio
+    - Guitar Pedal
+    - Temperature Monitoring Device
+- Signal Processing
+    - Analog Control (PID)
+    - Digital signal transmission
+    - Analog signal transmission
 - Miscellaneous
     - Rigid Body Numerical Analysis in Python
     - SpacePong Game and Bot
@@ -37,6 +38,17 @@ Numerical solutions of the Nonlinear Schrödinger Equation for a Gaussian Beam.
 <img src="https://github.com/user-attachments/assets/550e3c33-586a-443d-8580-b2da98e8a7d8" alt="propagation_lens" width="300">
 <img src="https://github.com/user-attachments/assets/101ee926-8372-4991-a037-3e0b0f9e352d" alt="propagation_free_space" width="300">
 
+## Aberration Correction
+
+This physically informed neural network reduces aberration and noise in microscopical images.
+
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/f5e0c1b7-84f2-4393-863a-5afe6b09f535" width="600">
+
+## Experimental PSF Measurements
+
+Imaging fluorescent beads and processing the data to experimentally determine the point spread functions of microscopes.
+![image](https://github.com/user-attachments/assets/9c3f4123-f220-4cf2-a094-6188f50f082d)
+
 ## Petzval’s Lens
 
 Zemax project to create an objective lens, the image produced by this objective can be seen below.
@@ -47,7 +59,6 @@ Zemax project to create an objective lens, the image produced by this objective 
 <img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/d0b2bb7c-d1bb-4eee-a5c0-3f6b6fb7fbc0" height="300">
 <img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/a1b3753a-8a94-4eaf-b4f6-aa5faba11986" height="300">
 
-
 ## Fiber Coupler
 
 Zemax project to couple 2 fiber-optics. Achieves near perfect coupling efficiencies.
@@ -56,12 +67,43 @@ Zemax project to couple 2 fiber-optics. Achieves near perfect coupling efficienc
 
 <img src="Images/Dcj-screenshot-computer-description-automatically.png" width="600">
 
-## Aberration Correction
+# Machine Learning
 
-This neural network reduces aberration and noise in microscopical images.
+## Genetic Algorithm
 
-<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/f5e0c1b7-84f2-4393-863a-5afe6b09f535" width="600">
+Genetic algorithm that mutates the weights of a neural network to play the popular mobile game “Flappy Bird”.
 
+<img src="Images/ZX5_Image_12.png" width="600">
+
+<img src="Images/W59_Image_13.gif">
+
+## MLP Image Classification
+
+Done as a part of CS231n machine learning class.
+
+<img src="Images/wYO-collage-different-colored-squares-description.png" height="300"><img src="Images/t5X-collage-many-squares-description-automatically.png" width="300">
+
+<img src="Images/2e7-graph-graph-graph-graph-description.png" width="400"><img src="Images/Pfp_Image_16.png" width="400">
+
+
+## CNN Image Classification
+
+Done as a part of CS231n machine learning class using PyTorch.
+
+### Architecture:
+((CONV -> PReLU -> NORM)^2 POOL)^2 -> FNN -> FNN -> FNN
+
+Update function: Adam
+
+The final training weights of the first layer after 10 epochs over CIFAR-10:
+(Raw - Upsampled - Upsampled & Contrast Enhanced)
+
+<img width="200" alt="Ekran görüntüsü 2024-02-29 003240" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/fc5161bc-ffd8-473e-997b-82a1385f0f31">
+<img width="200" alt="Ekran görüntüsü 2024-02-29 003742" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/74d6c1b5-d3ed-411c-a060-88b9451af951">
+<img width="200" alt="Ekran görüntüsü 2024-02-29 003541" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/8ea9328a-c871-4601-a664-2ed335c2a318">
+
+<img width="452" alt="Ekran görüntüsü 2024-02-29 003434" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/d10bbabb-2bda-43a7-8ca6-dc17620c4d4e">
+<img width="191" alt="Ekran görüntüsü 2024-02-29 003847" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/366f3fc5-92cb-4f6c-9412-1f2d558338b4">
 # Electronics
 
 ## DIY Guitar Pedal
@@ -103,43 +145,6 @@ Experimenting with analog signal transmission and retrieval.
 
 <img src="Images/4gz-screenshot-computer-description-automatically.png" width="600">
 
-# Machine Learning
-
-## Genetic Algorithm
-
-Genetic algorithm that mutates the weights of a neural network to play the popular mobile game “Flappy Bird”.
-
-<img src="Images/ZX5_Image_12.png" width="600">
-
-<img src="Images/W59_Image_13.gif">
-
-## MLP Image Classification
-
-Done as a part of CS231n machine learning class.
-
-<img src="Images/wYO-collage-different-colored-squares-description.png" height="300"><img src="Images/t5X-collage-many-squares-description-automatically.png" width="300">
-
-<img src="Images/2e7-graph-graph-graph-graph-description.png" width="400"><img src="Images/Pfp_Image_16.png" width="400">
-
-
-## CNN Image Classification
-
-Done as a part of CS231n machine learning class using PyTorch.
-
-### Architecture:
-((CONV -> PReLU -> NORM)^2 POOL)^2 -> FNN -> FNN -> FNN
-
-Update function: Adam
-
-The final training weights of the first layer after 10 epochs over CIFAR-10:
-(Raw - Upsampled - Upsampled & Contrast Enhanced)
-
-<img width="200" alt="Ekran görüntüsü 2024-02-29 003240" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/fc5161bc-ffd8-473e-997b-82a1385f0f31">
-<img width="200" alt="Ekran görüntüsü 2024-02-29 003742" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/74d6c1b5-d3ed-411c-a060-88b9451af951">
-<img width="200" alt="Ekran görüntüsü 2024-02-29 003541" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/8ea9328a-c871-4601-a664-2ed335c2a318">
-
-<img width="452" alt="Ekran görüntüsü 2024-02-29 003434" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/d10bbabb-2bda-43a7-8ca6-dc17620c4d4e">
-<img width="191" alt="Ekran görüntüsü 2024-02-29 003847" src="https://github.com/mgundogan20/mgundogan20/assets/72755125/366f3fc5-92cb-4f6c-9412-1f2d558338b4">
 
 
 # Miscellaneous
