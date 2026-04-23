@@ -97,13 +97,14 @@ Tunable radio transmitter using a 9V battery. Uses a BJT as an amplifier. Can br
 <img src="Images/ty4-diagram-circuit-description-automatically.jpeg" width="600">
 
 Oscilloscope readings:
-<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/83b94a65-17b8-49d8-b32e-064e5e3bf5a1" width="300"><img src="https://github.com/mgundogan20/mgundogan
+
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/83b94a65-17b8-49d8-b32e-064e5e3bf5a1" width="300">
+<img src="https://github.com/mgundogan20/mgundogan20/assets/72755125/566b4115-a24f-4b16-9619-adc934621e18" width="300">
                                                                                                                            
 ## DIY Guitar Pedal
 Tunable pedal to add sound effects to electronic guitars.
 
 <img src="Images/Fmn_Image_1.png" width="400">
-20/assets/72755125/566b4115-a24f-4b16-9619-adc934621e18" width="300">
 
 # Machine Learning
 
